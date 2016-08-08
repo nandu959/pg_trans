@@ -1,0 +1,2 @@
+Natural Lanuage Procession https://www.coursera.org/course/nlpintro
+Horton Works Spark&Hadoop http://hortonworks.com/solutions/spark-at-scale/
