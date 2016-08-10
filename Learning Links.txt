@@ -1,2 +1,4 @@
 Natural Lanuage Procession https://www.coursera.org/course/nlpintro
 Horton Works Spark&Hadoop http://hortonworks.com/solutions/spark-at-scale/
+Amp Camp http://ampcamp.berkeley.edu/
+Spark Hands-on https://databricks-training.s3.amazonaws.com/index.html
