@@ -1,0 +1,67 @@
+The most favorite thing about pair programming is that pairing ensures the code quality and coding standards remains high because wider visibility of work with two eyes checking each other’s work and providing support. It also helps to work with multiple people and get a chance to support and work on every aspect of an application which also helps to reduce dependency later sometime.
+The least favorite thing is that sometimes working with pair causes developer’s ego issue writing a piece of code in ones best way, this affects the development environment and also the mindset that doesn’t allow us to thing efficiently, even though it doesn’t happen with everyone.
+
+I would follow agile methodology to implement an efficient and quality development of a system. Agile helps to track and respond in incremental and iterative manner. Here every aspect of the development is revisited continuously throughout the lifecycle. This also helps to get to know where each team/individual stands and resolve any technical or design issue every time we revisit. It also reduces the cost and time to market. I have worked on Jira project management tool with agile process. Which greatly helps to track and monitor overall lifecycle of the product. Jira also allows us to integrate with third party tools like SVN, Git for code reviews and Code quality management tools like SonarCube. There are different procedures that need to be followed for an efficient and quality development that includes proper project management, configuration management, and version management, risk management, build management and release management.
+
+
+I refactor earlier and every time when I see some significant advantages with my changes and see some improvement than the previous versions without affecting the behavior and also to reduce the burden of unorganized code. I refactor my code whenever possible to make it look clean and have a very good readability which helps other developers to adopt easily. I refactor when I see any duplicate code exists or when there is a possibility to reuse some piece of code or when there is a better feature available then the previous that improves the performance of the function.
+
+
+Whenever I finds some free time I try to work on some trending things doesn’t matter whether that helps me now or not. Usually on weekends when I don’t have anything planned I will plan to play on some new technology/software and try to setup and run at least a “Hello World” type of things. Whenever possible I try to attend some Technology Meetups to get some insights into new trends or new approaches. Attending some online webinars or following and reading technology blogs and internal webinars that happen when the company also helps me to get heads up of new trends. When I get a chance to express myself I will try to recommends and implement it full-fledged in that current assignment.
+Implemented a web based client service that communicates and manages data with a Positive Pay service for Fraud detection.
+Implemented a SOAP client service that communicates and manages data with an online direct deposits service (ACH) for Fraud detection.
+Implemented a Rest client service for Account reconciliation plan (ARP) transactions management for Fraud detection.
+Developed Restful services that exposes and allows managing Fraud detection services for ACH, IPP and ARP transactions using spring framework.
+Designed and developed an integration system using Message queues for batch processing of bulk data uploads.
+Worked on a Home Mortgage credit decision system and developed a restful client that communicates with third party credit bureaus.
+Worked on Home Mortgage underwriter module and work flow management.
+Designed and developed a concurrent service client to communicate with various services in an efficient manner using Java Future type and Spring Concurrent programming.
+Implemented push notifications services for Mobile applications and web applications.
+
+-------------------------------
+
+
+Developed and supported a web based application for Hotels and resorts management.
+Designed and developed an efficient internal global search for managing customers, employees, sale, features and etc. using Apache Solr and integrated it to both Mobile and web apps.
+Implemented and integrated flexible Payment gateways options for mobile applications.
+Acted as a primary backend developer handling and enterprise distributed application.
+Implemented reports and Invoice service as a part of work flow management using Apache POI.
+Involved in setup of DynaTrace for JVM profiling and performance monitoring.
+Lead support engineer for supporting backend services. 
+
+----------------------------------
+
+Acted a primary senior web developer for and interactive ecommerce application.
+Created highly scalable offline and online video conversion library that communicates with AWS S3 service and web services for metadata.
+Developed interactive video player application with and in-built ecommerce application where user can click anywhere in a video to interact and share.
+Implemented and integrated payment gateways and shipping services using third party web services.
+Designed and implemented video analytics and implemented customs metrics for tracking and monitoring user preferences.
+Designed and developed an algorithm for auto tracking and tagging of objects in a video which allows user to interact while playing.
+Developed and integrated video player with Social media services like Facebook, Twitter and etc.
+Involved in design and development of ecommerce business services as restful services for third party and internal application uses.
+----------------------------------------------------
+
+Single point of contact for a JSF based Framework for an ERP system involving design, development and maintenance.
+Designed and developed Enterprise search engine as a pluggable feature that extracts, transforms and publishes bulk data that is generated daily.
+Implemented internationalization of a web application to support for multiple geographical regions.
+Designed and developed interactive email workflow and approval services for review and processing transaction work flows.
+Worked on migrating a legacy system for Purchase, Sales and Inventory and Finance modules.
+Designed and developed dynamic product customizations feature to an ERP system to address custom need of a business that includes dynamic UI Forms, external validations and business rules.
+Implemented Logging and Auditing for backend data services using aspect programming.
+Designed and developed a code automation tool using Java as a part of framework that helps developers to generate common standard code and also cut down development time by 50%.
+
+-------------------------------------------------------
+Worked as a developer for a web based cross-cloud management console that unifies multiple IaaS provider services like Amazon AWS, OpSource and SoftLayer cloud.
+Designed and developed restful clients and services to communicate with cloud service providers like Amazon AWS, OpSource and SoftLayer cloud using their APIs using apache CFX. 
+Individually worked and owned a module with minimal supervision.
+Managing and monitoring cloud services health using custom scripts and libraries.
+Designed and developed billing and payment services consolidating for all cloud services.
+Disaster recovery management for data and services running on a cloud running scheduled backups to multiple geographical regions.
+Designed and developed notifications and subscription services for users to monitor clusters.
+
+ 
+
+
+
+
+
