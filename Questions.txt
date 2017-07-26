@@ -1,0 +1,11 @@
+1.            Based on your experience, what is your most- and least-favorite thing about pair programming?
+
+2.            How much pairing would you do in a typical day of your ideal job?
+
+3.            Is simplicity a feature of a system?
+
+4.            How do you deal with ambiguous requirements?
+
+5.            How often do you refactor? 
+
+6.            How do you approach technical debt and what are some plans you’ve made to deal with it?
