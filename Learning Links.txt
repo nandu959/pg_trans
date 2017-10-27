@@ -16,3 +16,6 @@ http://shop.lenovo.com/us/en/laptops/thinkpad/11e-series/11e-3rd-gen-intel/
 
 https://github.com/Haybu/custom-kafka-record-transformer/tree/master/src/main/java/com/jupiter/stream
 https://insight.io/github.com/apache/kafka/blob/trunk/connect/transforms/src/main/java/org/apache/kafka/connect/transforms/ValueToKey.java
+
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.2/bk_kafka-component-guide/content/ch_configuring_kafka.html
+https://github.com/patelliandrea/kafka-connect-jdbc/blob/2fb62d5707f85b784678af77cf531028d74887ff/src/main/java/io/confluent/connect/jdbc/DataConverter.java
