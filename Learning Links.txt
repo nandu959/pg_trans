@@ -11,3 +11,8 @@ http://www.bestbuy.com/site/hp-15-6-laptop-amd-a6-series-4gb-memory-500gb-hard-d
 http://www.bestbuy.com/site/dell-inspiron-15-6-laptop-intel-core-i3-4gb-memory-1tb-hard-drive-black/5165000.p?skuId=5165000
 http://outlet.lenovo.com/outlet_us/itemdetails/20GBS00000/445
 http://shop.lenovo.com/us/en/laptops/thinkpad/11e-series/11e-3rd-gen-intel/
+
+
+
+https://github.com/Haybu/custom-kafka-record-transformer/tree/master/src/main/java/com/jupiter/stream
+https://insight.io/github.com/apache/kafka/blob/trunk/connect/transforms/src/main/java/org/apache/kafka/connect/transforms/ValueToKey.java
