@@ -1,0 +1,76 @@
+Design and develop reusable components, frameworks and libraries using Java 8
+Design and develop secure restful webservices using spring boot.
+Develop cache mechanism for webservices using MemCache 
+Leverage enterprise search capanilities using Elastic search.
+Design and develop data pipe line from a realtime database to elastic search using kafka message queue.
+Configure and setup continuous integration.
+
+Java 8, Spring Boot, Maven, Git, Weblogic, Jax-RS, MemCache, Kafka, Elastic search, Jenkins
+
+Course work is required because Enterpise web application development requires indepth knowledge of data structures, 
+advanced java programming and understanding sophisticated design patterns, compilers, computer atchitecture and 
+Web application development,Course work helps to use best practices of application development. Hands on experience
+developing web applications using advanced java programming.
+
+60%
+
+Develop unit test caases for selective testing of execution paths.
+Develop unit test cases for boundry testing.
+Develop unit test cases for module interface to ensure that information properly flows into and out of the program unit.
+Author gerkin integration test cases using cucumber test suite and implementation using spring test that cover each and every module.
+Develop system test cases that covers error paths, data flows, recovery paths and security.
+
+Tools:
+Java 8, JUnit, MockitO, Spring Test, Cucumber, TDD and BDD, VersionOne, 
+
+
+Course work gives us indepth knowledge of testing techniques and best practices such as unit tesing, integration, regression and use of antibugging patterns.
+Course work provides hands-on experience of Test driven and Behaveriol driven development. Indepth knowledge of usage of integration testing techicques like top-down or bottom-up and depth or breadth first appraches.
+Covers usage of test strategies for web applications, security aspects, data flows and performace.
+
+10%
+
+
+Inception,eliction and eloberation of new enchancement requirements,
+Modeling new enhancement requirements using modeing types such as scenario-based,class-oriented,flow-oriented and behavioral models,
+Analysing and designing flow charts, uml diagrams and sequence diagrams for encancements
+
+Tools: Microsoft Visio, Version One, Microsoft Word, Microsoft Excel
+
+Course work covers overall Software development life cycle and Modeling techniques such as UML, data, class-based and scenario-based modeling,
+Hands on experience desiging class diagrams, sequence diagrams and UML diagrams. Provides indepth knowledge of design concepts such as Architectural, component-level, user interface and pattern based designs.
+
+10%
+
+
+Database design using data modeling technique such as data objects, data attributes and data relationships.
+Design and develop SQL and PL/SQL stored program units/packages as per coding standards.
+Troubleshoot PL/SQL code and procedures.
+
+Tools: Oracel Designer, Microsoft Visio, Version one
+
+Course works covers data modeling techniques and hands on experience designing database and schemas.Data modeling tools provide a
+software engineer with the ability to represent data objects, their characteristics, and their relationships.data modeling tools provide
+an automated means for creating comprehensive entity-relation diagrams, data object dictionaries, and related
+models.
+
+5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
