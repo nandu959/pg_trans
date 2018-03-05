@@ -20,6 +20,8 @@ https://insight.io/github.com/apache/kafka/blob/trunk/connect/transforms/src/mai
 https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.2/bk_kafka-component-guide/content/ch_configuring_kafka.html
 https://github.com/patelliandrea/kafka-connect-jdbc/blob/2fb62d5707f85b784678af77cf531028d74887ff/src/main/java/io/confluent/connect/jdbc/DataConverter.java
 
+Stocks Data Free Api - https://iextrading.com/developer/
+
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
