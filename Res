@@ -1,0 +1,132 @@
+•	Senior Software Developer with 8 years of extensive experience in Software Development Life Cycle (SDLC), Enterprise Web Application Design, Development, Programming, Testing, Support Maintenance, and End-User support.
+•	Proficient in developing secure enterprise Java applications using technologies such as Java, J2EE, JavaScript, HTML,XHTML/DHTML,XML & JSON.
+•	Exposure to complete SDLC: from inception, requirements gathering, requirements analysis, design, rapid prototyping, development, testing, documentation, deployment and production support.
+•	Experience working in SDLC by using Waterfall, Agile (Scrum), Pair Programming and Iterative system development methodologies. 
+•	Expertise in various open source frameworks like JSF, Struts, Spring, AngularJS and Distributed web application development.
+•	Proficient with Unit Testing, UML, Design Patterns, Object Oriented Design, Aspect Oriented, MVC patterns and Rules Engine (Drools).
+•	 Developed applications using latest technologies like EJB3.0, Spring 3.x/4.x, Hibernate 4.xand RESTFul services. 
+•	Experience in deploying business applications using application servers Oracle WebLogic, JBoss Application Server and IBM WebSphere and resolving build issues and monitoring server logs. 
+•	Competence in using Java IDE tools Rational Application Developer (RAD), Eclipse 4.0and WebLogic Workshop to develop dynamic web applications.
+•	Proficient in design and development of RESTful and SOAP webservices.
+•	Good working knowledge on TDD using JUnit, Mockito and EasyMock.
+•	Worked extensively using build methodologies like Ant and Maven and coded custom plug-ins and tasks for build and releases. 
+•	Proficient with code repository tools like CVS, SVN and GitHub.  
+•	Experience working on databases such as MySQL, Oracle9i, SQL Server and writing the SQL queries & stored procedures. 
+•	Experienced working on NoSQL databases such as Cassandra and MongoDB.
+•	Intermediate level experience working on Bigdata technologies like MapReduce, HDFS, Hive, Sqoop, Apache Spark for data extraction, transformation and analytics.
+•	Experience working on Cloud Computing, IaaS providers such as AWS, OpSource, SoftLayer.
+•	Experience working with frontend JavaScript frameworks JQuery, BootStrapJS and AngularJS.
+•	Excellent initiative, innovative thinking skills, and the ability to analyze details and adopt a big-picture view and Excellent organizational, project management and problem-solving skills.
+•	Excellent oral and written communication skills. Ability to explain complex technical information to technical and non-technical contacts.
+•	Excellent interpersonal skills. Ability to effectively build relationships promotes a collaborative and team environment and influences others.
+•	Experience on design and development of code automation tools for Migrating systems.
+TECHNICAL SKILLS
+
+Programming Languages	C++, Java, J2EE, SQL,  PL/SQL, Python
+Operating Systems	Windows 98/2000/XP/NT, Linux, Unix, MS-DOS.
+Java Technologies	J2SE, J2EE, JSF,JSP, Servlets, EJB, Swing, JDBC, JMS, MDB, JNDI, Web Services, Design Patterns, JAVA Beans
+Web/App. Server	WebSphere 6.1/8.0/8.5, Tomcat 5.5/6.0/7.0, JBoss 3.2/6.0/7.0
+Frameworks & IDE Tools	JSF 1.2/2.0/3.0, Struts1.2,AngularJS, Spring 3.0/4.0, JPA, Hibernate 3.0, JUnit, ANT, AJAX, Log4J, Eclipse 3.0/3.6, WeblogicWorkshop9.2, WSAD 5.1, RAD 6.0, GIT, Rational ClearCase, TOAD
+Web-Development Technologies	JSP, XML, XSD, XSLT, DOM, LDAP, HTML, Java Script, CSS, DHTML, Servlets,  JSTL (Tag Libraries), AJAX.
+RDBMS	MySQL, ORACLE 10g/11g, SQL Server 6.5, MS Access. 
+NoSQL	MongoDB, Cassandra, Apache Solr
+OOAD	UML, Design Patterns
+JS Frameworks	JQuery, AngularJS, JasmineJS, BootstrapJS
+Cloud Service Providers	AWS, OpSource, SoftLayer
+Multimedia	ffmpeg and x264 
+Rules Engine	Drools 
+					PROFESSIONAL SUMMARY
+
+Delta Dental of Michigan, Lansing, MI		 					Sep ’17 – Till date
+Role: Senior developer
+
+Responsibilities:
+•	Involved in Software Development is driven by Agile methodology and Iterative system development methodologies.
+•	Designed and developed an automated Jenkins pipeline that build Jenkins build slaves on the fly based on the application type with specific environment setting using AWS services.
+•	Developed single page web applications using Angular 4 and also custom services to communicate with internal services securely.
+•	Hands on experience with Pandas library in Python to clean up the raw data and applied data Leveraged Max-Mind API to do the reverse lookup to apply data transformations and published data asynchronous to queues.
+•	Designing and Implementing Micro services using Spring Boot and Spring Cloud.
+•	Write complex lambda expressions using pandas for data manipulations.
+•	Implementing and developing unit and Integration test cases for Test driven development using Spring Test, JUnit and MockIto.
+
+Environment: Java 8, J2EE, Python, Agile, HTML, JSP, Ajax, Spring Boot, Spring Security, OpenId Connect, Angular 4,,Maven, JUnit, MockitO, Elastic Search, Kafka, Python Pandas, RestFul, JSON, Orcale Weblogic, Spring Boot, MDB, SQL, JMeter, log4j 
+
+Wells Fargo Bank, Minneapolis					 			Oct’15 – Aug’17
+Role: Senior Java Developer
+
+Responsibilities:
+•	Implemented a secure restful service that communicates and manages data from a Positive Pay service for Fraud detection.
+•	Developed single page web applications using AngularJS and also custom services to communicate with internal services securely.
+•	Designed and developed an integration system using batch processing of bulk data uploads.
+•	Designed and developed Unit test cases based on Business requirements and to support Test driven development.
+•	Worked on Home Mortgage underwriter module and work flow management.
+•	Support clients with different professional backgrounds, interact with business, technical and management professionals for production critical issue, and translate live issues into the specific technical problem.
+•	Designed and developed standalone jobs for data extraction, transformation of raw data from multiple sources. 
+•	Designed and developed a concurrent service client to communicate with various services in an efficient manner using Java Future type and Spring Concurrent programming.
+•	Implemented push notifications services for Mobile applications and web applications.
+•	Implemented unit test and Integration test cases for Test Driven development.
+
+Technical Responsibilities:
+•	Created dynamic web UI designs and Single page apps using AngularJS, HTML5, CSS3, JavaScript.
+•	Actively involved in Software Development driven by Agile methodology and Pair Programming.
+•	Implemented Test cases based on the business requirements and laid concrete structure using the principles of Test Driven Development (TDD) using Cucumber, Gerkins and Mockito.
+•	Designed and developed Restful Web services using Spring Web, Security, AOP, IOC, Data which acts as a standalone application and to expose business services for internal and external communications.
+•	Implemented Groovy script for customizing application specific builds scripts in Jenkins for various environments like DEV, UAT and PROD.
+•	Design, development and testing of system integration between the company's agent portal and an external application using Spring Integration.
+•	Implemented standalone spark jobs for ETL operations using Apache Spark and Python Pandas.
+•	Experience of using Python modules like NumPy, Matplotlib, Pickle, Pandas, SciPy, wxPython, PyTables, PyQt, etc., for generating complex graphical data, creation of histograms, etc.
+•	Designed and developed a concurrent service client to communicate with various services in an efficient manner using Java Future type and Spring Concurrent programming.
+•	Installed and configured WebLogic Application Server and developed Maven scripts for deployment.
+•	Used MemCache to store and retrieve sessions and user authorization data for better performance.
+
+Environment: Java 8, J2EE, Python, Agile, HTML, JSP, Ajax, Spring 4x,AngularJS, Hibernate 3, SOAP, REST, XML, JSON, Oracle Weblogic Application Server, MDB, SQL, JMeter, log4j, DynaTrace, TDD, JUnit, Spock, Apache Spark, Python Pandas,  SonarQube, Jenkins, Maven, MemCache, GitHub. 
+
+Client: 3i-Infotech Ltd									Nov ’12 - Aug’ 14
+Role: Senior Java Developer
+
+Responsibilities:
+•	Acted as a Lead Java developer for a JSF based Framework team for an ERP system involving design, development and maintenance.
+•	Designed and developed Enterprise search engine as a pluggable feature that extracts, transforms and publishes bulk data that is generated on daily basis.
+•	Implemented internationalization of a web application to support for multiple geographical regions.
+•	Designed and developed interactive email workflow and approval services for review and processing transactional work flows.
+•	Worked on migrating a legacy ERP system for Purchase, Sales and Inventory and Finance modules.
+•	Designed and developed dynamic product customizations feature to an ERP system to address custom need of a business that includes dynamic UI Forms, external validations and business rules.
+•	Implemented Logging and Auditing for backend data services using aspect programming.
+•	Designed and developed a code automation tool using Java as a part of framework that helps developers to generate common standard code and also cut down development time by 50%.
+•	Customize B2C web based portals using python and django framework.  
+
+Technical Responsibilities
+•	Developed a web-based reporting for credit monitoring system with JSF, XHTML, JSTL, custom tags and Tiles using Struts framework
+•	Developed web-based customer management software using Facelets, Icefaces and JSF
+•	Implemented Ajax Frame works, jQuery tools examples like Auto Completer, Tab Module, and Calendar and Floating windows.
+•	Authored rules for custom application validations in a workflow using Drools.
+•	Configured Struts-Config file for form-beans, global forwards, error forwards and action forwards
+•	Designed and implemented Report Module (using Jasper Report framework)
+•	Developed Message-Driven beans in collaboration with Java Messaging Service (JMS)
+•	Used XML parser APIs such as JAXP and JAXB in the web services request response data marshalling as well as un-marshalling process
+•	Provided technical and functional fixes for High and Critical issues in production systems. This involved lot of production data analysis in different Database systems and everyday use of SQL
+•	Used Hibernate to access My SQL database and implemented of connection pooling
+•	Developed JavaScript based components using Ext JS framework like GRID, TreePanel with client reports customized according to user requirements
+•	Performed building and deployment of WAR, JAR files on test, stage, and production systems in Apache Tomcat application server
+
+Environment:J2EE, Java 1.7, Python, Django, Servlets, JSP, JBoss, JDBC, EJB 3, JMS, JQuery, backbone.js, HTML5, JSTL, Icefaces, XML, Drools, Spring, Struts, Hibernate, Web Services, Apache Tomcat Server, JSF, EXT JS, JAXB, Jasper Report, JUnit, SOAP, SOAPUI, XML, Apache Solr, JavaScript, UML, Apache Axis 2, ANT, SVN,  MySQL
+
+Client: Zylog Systems Ltd	  	Feb’ 10 - Oct’ 12
+Role: Developer 
+
+ Responsibilities:
+•	Worked as a developer for a web based cross-cloud management console that unifies multiple IaaS provider services like Amazon AWS, OpSource and SoftLayer cloud.
+•	Designed and developed restful clients and services to communicate with cloud service providers like Amazon AWS, OpSource and SoftLayer cloud using their APIs to develop custom features.
+•	Managing and monitoring cloud services health using custom scripts and libraries.
+•	Designed and developed billing and payment services consolidating for all cloud services.
+•	Disaster recovery management for data and services running on cloud by running scheduled backups to multiple geographical regions.
+
+Technical Responsibilities:
+•	Worked on Requirement analysis, gathered all possible business requirements from end users and business Analysts
+•	Involved in creation of UML diagrams like Class, Activity, and Sequence Diagrams using modeling tools of IBM Rational Rose
+•	Worked with core Java code extensively using interfaces and multi-threading techniques
+•	Involved in production support and documenting the application to provide training and knowledge transfer to the user
+•	Developed and configured the Java beans using SpringMVC framework
+•	Developed SQL stored procedures and prepared statements for updating and accessing data from database
+
+Environment: Java, JDBC, Servlets, JSP, Spring, Eclipse, Oracle 9i, Apache Tomcat, SVN, JavaScript, Log4J
